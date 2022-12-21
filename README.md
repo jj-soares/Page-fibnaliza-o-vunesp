@@ -23,25 +23,29 @@
    
    
    
-   # Roadmap 
+ # Roadmap 
    
    <p>The project was a great immersion for me, as I was able to learn more about the technologies I currently use and also be able to learn more about what 
    I had not experienced yet !!</p>
    
    
-   # Technologies
+ # Technologies
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
+   
+   <img src='computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [W3Schools](https://www.w3schools.com/)  
+
+<br>
+<br>
+   
+#  Photos
+   
+   <img src="2022-12-21 14-39-38.webp" width= 400px >
    
    
-   #  Photos
-   
-   <img src="" width= 400px >
-   <img src="" width= 400px >
-   
-   # Author 
+# Author 
    <p> Hello, my name is João. <br> Follow me on <a href="www.linkedin.com/in/joão-soares13" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
