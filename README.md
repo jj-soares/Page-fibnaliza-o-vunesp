@@ -48,4 +48,4 @@
    
    
 # Author 
-   <p> Hello, my name is João. <br> Follow me on <a href="www.linkedin.com/in/joão-soares13" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
