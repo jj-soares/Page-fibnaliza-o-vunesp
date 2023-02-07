@@ -7,9 +7,9 @@
 </h4>
 
 ## Photo 🎴
-   
-   <img src="2022-12-21 14-39-38.webp" width= 400px >
-   
+   <div align='center'>
+   <img src="./img/cps.gif"  >
+   </div>
    
 <p align="center">   
    <a href="#On">On</a> .
