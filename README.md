@@ -8,7 +8,7 @@
 
 ## Photo 🎴
    <div align='center'>
-   <img src="./img/cps.gif"  >
+   <img src="./IMG/cps.gif"  >
    </div>
    
 <p align="center">   
