@@ -6,30 +6,36 @@
   😉 Finalization project of the Univesp Foundation Course, with the aim of practicing the technologies learned!
 </h4>
 
+## Photo 🎴
+   
+   <img src="2022-12-21 14-39-38.webp" width= 400px >
+   
+   
 <p align="center">   
-   <a href="#on">On</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#technologies">Technologies</a> .
-   <a href="#photos">Photos</a> . 
-   <a href="#author">Author</a>
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photo">Photos</a> . 
+   <a href="#Author">Author</a> 
+   
  </p>
 
 
    
- # On
+ ## On ✔
      
      
    <p> The project aims to improve practices with Html and CSS, and learn a little more about W3, to improve the development of web sites!! </p>
    
    
    
- # Roadmap 
+ ## Roadmap 🗺
    
    <p>The project was a great immersion for me, as I was able to learn more about the technologies I currently use and also be able to learn more about what 
    I had not experienced yet !!</p>
    
    
- # Technologies
+ ## Technologies 🚀
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
@@ -42,10 +48,5 @@
 <br>
 <br>
    
-#  Photos
-   
-   <img src="2022-12-21 14-39-38.webp" width= 400px >
-   
-   
-# Author 
-   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
